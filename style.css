@@ -1,0 +1,6 @@
+form:focus-within {
+    border: 2px solid #0085ca;
+}
+form{
+    box-sizing:content-box;
+}
